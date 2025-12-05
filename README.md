@@ -1,16 +1,31 @@
-# React + Vite
+# Popcorn Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, fully animated, responsive portfolio built with React + Vite.
 
-Currently, two official plugins are available:
+### Purpose
+To showcase my skills as a Full-Stack Developer with a strong focus on:
+- Clean, maintainable code
+- Beautiful UI/UX & animations
+- Component-based architecture
+- Theme switching & accessibility
+- Attention to detail and creativity
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Features
+- 3 themes: Light / Dark / Black & White (click top-right icon)
+- Cute custom popcorn loading animation
+- Smooth Framer Motion transitions
+- Mobile-first responsive design
+- Project cards with modal view
+- Working contact form
 
-## React Compiler
+### Tech Stack
+- React + Vite
+- Framer Motion
+- Lucide Icons
+- Custom hooks & clean folder structure
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### Live Demo
+https://popcorn-portfolio-radha.netlify.app
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+###For more information,Contact:
+Mail : lakshmiradha030@gmail.com
